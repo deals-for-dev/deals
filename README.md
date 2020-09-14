@@ -384,7 +384,7 @@ Table of Contents
 <!---  * [splunk.com](https://www.splunk.com) - Free for a single user, 500 MB/day-->
 <!---  * [sumologic.com](https://www.sumologic.com/) — Free up to 500 MB/day, 7 days retention-->
 
-## Translation Management-->
+## Translation Management
 
 <!---  * [crowdin.com](https://crowdin.com/) — Unlimited projects, unlimited strings and collaborators for Open Source-->
 <!---  * [lingohub.com](https://lingohub.com/) — Free up to 3 users, always free for Open Source-->
@@ -825,7 +825,7 @@ Table of Contents
 <!---  * [SceneLab](https://scenelab.io) - Online mockup graphics editor with an ever-expanding collection of free design templates-->
 <!---  * [xLayers](https://xlayers.dev) - Preview and convert Sketch design files into Angular, React, Vue, LitElement, Stencil, Xamarin and more (free and open source at https://github.com/xlayers/xlayers)-->
 
-## Data Visualization on Maps-->
+## Data Visualization on Maps
 
  <!---  * [carto.com](https://carto.com/) — Create maps and geospatial APIs from your data and public data.-->
  <!---  * [datamaps.world](https://datamaps.world/) — The simple, yet powerful platform that gives you tools to visualize your geospatial data with a free tier.-->
