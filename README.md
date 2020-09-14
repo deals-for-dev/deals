@@ -63,7 +63,7 @@ Table of Contents
    
 ## Major Cloud Providers
 
-<!---  * [Google Cloud Platform](https://cloud.google.com)
+<!---  * [Google Cloud Platform](https://cloud.google.com)-->
     * App Engine - 28 frontend instance hours per day, 9 backend instance hours per day
     * Cloud Firestore - 1GB storage, 50,000 reads, 20,000 writes, 20,000 deletes per day
     * Compute Engine - 1 non-preemptible f1-micro, 30GB HDD, 5GB snapshot storage (restricted to certain regions)
