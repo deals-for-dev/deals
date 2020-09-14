@@ -1,4 +1,4 @@
-# [free-for.dev](https://free-for.dev)
+# [deals-for.dev](https://free-for.dev)
 
 Developers and Open Source authors have access to many services with free tiers but still have to go through traditional buying processes when you want to actually pay for a product.
 
